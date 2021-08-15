@@ -1,5 +1,5 @@
 #  Note: A 2020/2021 rewrite is ongoing on [this repo](https://github.com/togiberlin/ui_ux_handbook).
-
+<!-- this file not appearing in format of original design -->
 ![UI/UX Designer Roadmap](http://i.imgur.com/clLNiOD.png)
 
 > Roadmap to becoming a UI/UX Designer in 2017
